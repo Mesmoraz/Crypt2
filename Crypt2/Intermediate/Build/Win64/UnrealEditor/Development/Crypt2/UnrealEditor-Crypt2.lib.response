@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Crypt2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\Crypt2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\UnrealEditor\Development\Crypt2\Crypt2.cpp.obj"
+"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\UnrealEditor\Development\Crypt2\Crypt2GameModeBase.cpp.obj"
+"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\UnrealEditor\Development\Crypt2\Crypt2.init.gen.cpp.obj"
+"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\UnrealEditor\Development\Crypt2\Crypt2GameModeBase.gen.cpp.obj"
+"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\UnrealEditor\Development\Crypt2\Default.rc2.res"
+/OUT:"D:\Projects\Crypt2\Crypt2\Intermediate\Build\Win64\UnrealEditor\Development\Crypt2\UnrealEditor-Crypt2.lib"

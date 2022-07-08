@@ -1,0 +1,27 @@
+[
+	{
+		"file": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2\\Crypt2.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Projects\\Crypt2\\Crypt2\\.vscode\\compileCommands_Crypt2\\Crypt2.211.rsp",
+		"directory": "D:\\Program Files\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2\\Crypt2.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Projects\\Crypt2\\Crypt2\\.vscode\\compileCommands_Crypt2\\Crypt2.211.rsp",
+		"directory": "D:\\Program Files\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2\\Crypt2.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Projects\\Crypt2\\Crypt2\\.vscode\\compileCommands_Crypt2\\Crypt2.211.rsp",
+		"directory": "D:\\Program Files\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2\\Crypt2GameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Projects\\Crypt2\\Crypt2\\.vscode\\compileCommands_Crypt2\\Crypt2.211.rsp",
+		"directory": "D:\\Program Files\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2\\Crypt2GameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Projects\\Crypt2\\Crypt2\\.vscode\\compileCommands_Crypt2\\Crypt2.211.rsp",
+		"directory": "D:\\Program Files\\UE_5.0\\Engine\\Source"
+	}
+]

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\crypt2\\crypt2\\source\\crypt2\\crypt2.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\crypt2\\crypt2\\intermediate\\build\\win64\\crypt2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\crypt2\\crypt2\\intermediate\\build\\win64\\unrealeditor\\development\\crypt2\\definitions.crypt2.h",
+            "d:\\projects\\crypt2\\crypt2\\source\\crypt2\\crypt2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

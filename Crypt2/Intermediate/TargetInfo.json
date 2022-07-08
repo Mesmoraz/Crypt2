@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Crypt2",
+			"Path": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Crypt2Editor",
+			"Path": "D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

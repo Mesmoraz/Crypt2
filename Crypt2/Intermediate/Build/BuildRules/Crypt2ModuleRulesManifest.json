@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2\\Crypt2.Build.cs",
+		"D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2.Target.cs",
+		"D:\\Projects\\Crypt2\\Crypt2\\Source\\Crypt2Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}
